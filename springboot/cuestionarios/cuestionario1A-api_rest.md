@@ -43,7 +43,7 @@ Indican el resultado de una solicitud HTTP, informando si fue exitosa o si ocurr
 5xx (Errores del servidor): 500 Internal Server Error  ocurrió un error en el servidor.
 ## JSON
 13. ¿Por qué es JSON el formato de datos más comúnmente utilizado en las APIs REST?
-Porque es simple, liviano y fácil de leer y procesar por diferentes lenguajes de programación.
+Porque es simple, ocupa poco espacio y fácil de leer y procesar por diferentes lenguajes de programación.
 14. Explica brevemente la estructura de un objeto JSON.
 Un objeto JSON está formado por pares clave-valor y se encuentra entre llaves { }.
 15. ¿Qué tipos de datos pueden representarse en JSON?
