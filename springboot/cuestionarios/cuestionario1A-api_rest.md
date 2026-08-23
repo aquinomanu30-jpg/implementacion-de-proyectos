@@ -57,9 +57,9 @@ Permite ver y analizar las respuestas de la API.
 ## Ejercicios Prácticos
 18. Describe cómo implementarías una operación CRUD (Crear, Leer, Actualizar, Eliminar) en una API REST.
 Utilizaría los métodos HTTP:
-Crear: POST
-Leer: GET
-Actualizar: PUT
+Crear: POST, 
+Leer: GET, 
+Actualizar: PUT y 
 Eliminar: DELETE
 19. ¿Cómo usarías Postman para probar una nueva API que acabas de desarrollar?
 Seleccionaría el método HTTP, escribiría la URL del endpoint, enviaría la solicitud y comprobaría la respuesta y el código de estado.
